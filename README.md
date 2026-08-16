@@ -32,7 +32,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI alert-lifecycle system — [see below](#-ai--agent-engineering) |
 | 🧩 Full-Stack | **NOVA** — React/TypeScript, documented architecture — [see below](#public-projects) |
 | 💡 Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
-| 📱 Mobile | **QossayApp** — Flutter e-commerce app — [see below](#public-projects) |
+| 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
 | 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
 ### ⚖️ MIZAN — Smart Personal Finance Platform
 
@@ -156,11 +156,11 @@ The project focuses on intuitive financial visualization, smart budgeting, reusa
 ---
 
 
-### 📱 QossayApp — E-Commerce Mobile App
-A Flutter-based e-commerce mobile application.
+### 📲 NASAQ — Fashion & Accessories Mobile App
+A modern Flutter-based mobile commerce application focused on fashion and accessories, featuring a clean, premium shopping experience.
 
-**Tech:** Flutter · Dart
-**Repository:** [`QossayKamel22/QossayApp`](https://github.com/QossayKamel22/QossayApp)
+**Tech:** Flutter · Dart · Provider · HTTP · Shared Preferences  
+**Repository:** [`QossayKamel22/NASAQ`](https://github.com/QossayKamel22/NASAQ)
 
 <br/>
 
