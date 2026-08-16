@@ -31,8 +31,11 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🏦 Production Banking | Flutter development on live mobile banking apps for 5 financial institutions — [see below](#-professional-experience) |
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI alert-lifecycle system — [see below](#-ai--agent-engineering) |
 | 🧩 Full-Stack | **NOVA** — React/TypeScript, documented architecture — [see below](#public-projects) |
+| 💡 Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
 | 📱 Mobile | **QossayApp** — Flutter e-commerce app — [see below](#public-projects) |
 | 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
+### ⚖️ MIZAN — Smart Personal Finance Platform
+
 
 <br/>
 
@@ -137,6 +140,21 @@ The project focuses on clean component architecture, reusable design systems, re
 
 
 ---
+
+
+### ⚖️ MIZAN — Smart Personal Finance Platform
+
+A modern personal finance management platform built to help users organize their income, expenses, budgets, savings, and financial goals in one intelligent workspace. MIZAN combines a clean Arabic-first user experience with secure authentication, structured financial data, and a scalable architecture designed for real-world personal finance management.
+
+The project focuses on intuitive financial visualization, smart budgeting, reusable components, responsive design, and a foundation for future AI-powered financial insights — built as a real product rather than a static dashboard.
+
+**Tech:** Flutter · Firebase · Python · FastAPI · PostgreSQL · AI Agents · LangGraph
+
+**Repository:** [`QossayKamel22/MIZAN`](https://github.com/QossayKamel22/MIZAN)
+
+
+---
+
 
 ### 📱 QossayApp — E-Commerce Mobile App
 A Flutter-based e-commerce mobile application.
