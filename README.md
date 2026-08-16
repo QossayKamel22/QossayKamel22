@@ -67,7 +67,7 @@ Key areas of work:
 | **Safa Bank** | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | [Google Play](https://play.google.com/store/apps/details?id=com.safabank.safamobileapp) · [App Store](https://apps.apple.com/us/app/safa-mobile/id1243247851) |
 | **Egyptian Real Estate Bank** | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | *Official store listing not confidently verified — see note below* |
 
-> Store links point to the current official listings found for each bank's consumer mobile banking app; developer/publisher identity was cross-checked where possible (several of these apps are published under PCNC's own app package namespace, consistent with PCNC's role as Bank of Palestine's technology partner). Role descriptions use "contributed to" rather than "built," since these are team-built production applications. **Qossay:** please confirm the exact registered name of "Egyptian Real Estate Bank" so its listing can be verified and added.
+> Store links point to the current official listings found for each bank's consumer mobile banking app; developer/publisher identity was cross-checked where possible (several of these apps are published under PCNC's own app package namespace, consistent with PCNC's role as Bank of Palestine's technology partner). Role descriptions use "contributed to" rather than "built," since these are team-built production applications. 
 
 <br/>
 
