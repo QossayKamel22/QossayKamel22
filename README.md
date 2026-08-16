@@ -32,6 +32,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI alert-lifecycle system — [see below](#-ai--agent-engineering) |
 | 🧩 Full-Stack | **NOVA** — React/TypeScript, documented architecture — [see below](#public-projects) |
 | 💡 Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
+| 🏋️ Fitness Mobile | **IronFit** — Personal fitness & workout app — [see below](#public-projects) |
 | 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
 | 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
 
@@ -151,6 +152,20 @@ The project focuses on intuitive financial visualization, smart budgeting, reusa
 **Tech:** Flutter · Firebase · Python · FastAPI · PostgreSQL · AI Agents · LangGraph
 
 **Repository:** [`QossayKamel22/MIZAN`](https://github.com/QossayKamel22/MIZAN)
+
+
+---
+
+
+### 🏋️ IronFit — Smart Fitness & Workout Platform
+
+A modern fitness management platform designed to help users organize their workouts, track training progress, monitor fitness goals, and build consistent healthy habits through one intuitive mobile experience. IronFit combines a clean, performance-focused interface with structured workout data and a scalable architecture designed for real-world fitness tracking.
+
+The project focuses on personalized workout experiences, progress tracking, reusable components, responsive mobile design, and a foundation for future smart fitness features — built as a real product rather than a static fitness dashboard.
+
+**Tech:** Flutter · Dart · Firebase · Provider · REST APIs
+
+**Repository:** [`QossayKamel22/ironFit`](https://github.com/QossayKamel22/ironFit)
 
 
 ---
