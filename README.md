@@ -31,7 +31,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🏦 Production Banking | Flutter development on live mobile banking apps for 5 financial institutions — [see below](#-professional-experience) |
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI alert-lifecycle system — [see below](#-ai--agent-engineering) |
 | 🧩 Full-Stack | **NOVA** — React/TypeScript, documented architecture — [see below](#public-projects) |
-| 💡 Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
+| 💡 AI Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
 | 🏋️ Fitness Mobile | **IronFit** — Personal fitness & workout app — [see below](#public-projects) |
 | 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
 | 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
