@@ -34,7 +34,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 💡 Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
 | 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
 | 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
-### ⚖️ MIZAN — Smart Personal Finance Platform
+
 
 
 <br/>
