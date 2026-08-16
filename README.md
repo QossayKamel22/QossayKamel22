@@ -125,11 +125,16 @@ An operational monitoring system for restaurants: it reads a branch's live POS d
 
 ---
 
-### 🧩 Draggable Widget Dashboard
-A client-only React SPA that composes a dashboard from reorderable Clock and Note widgets, with layout and content persisted across refreshes. The project's defining engineering constraint is render isolation — a Clock's per-second tick re-renders only that Clock, never a sibling — solved through deliberate state ownership rather than blanket memoization, documented in a full architecture write-up with ADRs.
+### 🚀 NOVA — Personal Productivity Command Center
 
-**Tech:** React · TypeScript (strict) · Vite · @dnd-kit/sortable
-**Repository:** [`QossayKamel22/Task`](https://github.com/QossayKamel22/Task)
+A production-quality React and Firebase productivity platform designed to bring tasks, goals, notes, calendar events, and productivity insights into one clean, premium workspace. NOVA combines responsive UI/UX with real-time data persistence, secure Firebase Authentication, and scalable Firestore architecture.
+
+The project focuses on clean component architecture, reusable design systems, responsive experiences, protected routes, and real CRUD functionality — built to feel like a real SaaS product rather than a static dashboard.
+
+**Tech:** React · TypeScript · Vite · Firebase · Firebase Authentication · Cloud Firestore · React Router · CSS
+
+**Repository:** [`QossayKamel22/NOVA`](https://github.com/QossayKamel22/NOVA)
+
 
 ---
 
