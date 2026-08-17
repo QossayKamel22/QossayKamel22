@@ -66,7 +66,8 @@ Key areas of work:
 | **Cairo Amman Bank** (Palestine) | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | [Google Play](https://play.google.com/store/apps/details?id=com.pcnc.mbs.cab) · [App Store](https://apps.apple.com/us/app/cab-mobile-banking-ps/id1625831957) |
 | **Arab Islamic Bank** (Palestine) | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | [Google Play](https://play.google.com/store/apps/details?id=com.pcnc.aib) · [App Store](https://apps.apple.com/us/app/arab-islamic-bank-mobile-app/id1439731494) |
 | **Safa Bank** | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | [Google Play](https://play.google.com/store/apps/details?id=com.safabank.safamobileapp) · [App Store](https://apps.apple.com/us/app/safa-mobile/id1243247851) |
-| **Egyptian Real Estate Bank** | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | *Not yet published on the App Store or Google Play* |
+| **Egyptian Arab Land Bank (EALB)** | Contributed to Flutter mobile development (PCNC IT Solutions) | iOS · Android | [Google Play](https://play.google.com/store/apps/details?id=com.pcnc.ealb.mobilebanking&hl=en) · [App Store](https://apps.apple.com/il/app/ealb-ps/id6755387138) |
+
 
 > Store links point to the current official listings found for each bank's consumer mobile banking app; developer/publisher identity was cross-checked where possible (several of these apps are published under PCNC's own app package namespace, consistent with PCNC's role as Bank of Palestine's technology partner). Role descriptions use "contributed to" rather than "built," since these are team-built production applications. 
 
