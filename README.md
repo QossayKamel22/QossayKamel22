@@ -33,6 +33,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🧩 Full-Stack | **NOVA** —Premium personal productivity command center for tasks, goals, notes, calendar & insights, built with React, Vite & Firebase  — [see below](#public-projects) |
 | 💡 AI Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
 | 🏋️ Fitness Mobile | **IronFit** — Personal fitness & workout app — [see below](#public-projects) |
+| 📚 Reading Intelligence | ReadSpeed — Flutter AI-powered speed-reading & reading analytics app — [see below](#public-projects) |
 | 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
 | 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
 
@@ -171,10 +172,25 @@ The project focuses on personalized workout experiences, progress tracking, reus
 ---
 
 
+### 📚 ReadSpeed — AI-Powered Reading & Speed-Reading Platform
+
+A modern AI-powered reading platform designed to help users improve reading speed, comprehension, focus, and consistency through one intuitive mobile experience. ReadSpeed combines a clean, distraction-free reading interface with personalized reading goals, progress analytics, and intelligent insights to create a more effective and measurable reading experience.
+
+The project focuses on speed-reading experiences, personalized reading sessions, progress tracking, reading statistics, reusable components, responsive mobile design, and a scalable architecture designed for future AI-powered reading features — built as a real product rather than a static reading dashboard.
+
+**Tech:** Flutter · Dart · Firebase · AI · Firestore · Responsive UI
+
+**Repository:** [`QossayKamel22/ReadSpeed`](https://github.com/QossayKamel22/ReadSpeed)
+
+
+---
+
+
 ### 📲 NASAQ — Fashion & Accessories Mobile App
 A modern Flutter-based mobile commerce application focused on fashion and accessories, featuring a clean, premium shopping experience.
 
 **Tech:** Flutter · Dart · Provider · HTTP · Shared Preferences  
+
 **Repository:** [`QossayKamel22/NASAQ`](https://github.com/QossayKamel22/NASAQ)
 
 <br/>
