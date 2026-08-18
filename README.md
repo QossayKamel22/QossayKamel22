@@ -28,15 +28,15 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 
 | Area | Highlight |
 |---|---|
-| 🏦 Production Banking | Flutter development on live mobile banking apps for 5 financial institutions — [see below](#-professional-experience) |
-| 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI alert-lifecycle system — [see below](#-ai--agent-engineering) |
-| 🧩 Full-Stack | **NOVA** —Premium personal productivity command center for tasks, goals, notes, calendar & insights, built with React, Vite & Firebase  — [see below](#public-projects) |
-| 💡 AI Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
-| ⚡ AI Mobile Intelligence | **PULSE** — Smart Flutter & Firebase productivity app — [see below](#public-projects) |
-| 🏋️ Fitness Mobile | **IronFit** — Personal fitness & workout app — [see below](#public-projects) |
-| 📚 Reading Intelligence | ReadSpeed — Flutter AI-powered speed-reading & reading analytics app — [see below](#public-projects) |
+| 🏦 Production Banking | Flutter development for live banking apps across 5 financial institutions — [see below](#-professional-experience) |
+| 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI agent for POS intelligence — [see below](#-ai--agent-engineering) |
+| 🧩 Full-Stack | **NOVA** — React, Vite & Firebase productivity platform — [see below](#public-projects) |
+| 💡 AI Finance | **MIZAN** — Intelligent personal finance platform — [see below](#public-projects) |
+| ⚡ AI Productivity | **PULSE** — Smart Flutter & Firebase productivity platform — [see below](#public-projects) |
+| 🏋️ Fitness Tech | **IronFit** — Mobile fitness & workout platform — [see below](#public-projects) |
+| 📚 Reading Intelligence | **ReadSpeed** — AI-powered speed reading & analytics app — [see below](#public-projects) |
 | 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
-| 🎨 Product Design | Figma UI/UX work across fintech and social concepts — [see below](#-uiux--product-design) |
+| 🎨 Product Design | Figma UI/UX across fintech, social & mobile products — [see below](#-uiux--product-design) |
 
 
 
