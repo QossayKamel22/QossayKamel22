@@ -32,6 +32,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI alert-lifecycle system — [see below](#-ai--agent-engineering) |
 | 🧩 Full-Stack | **NOVA** —Premium personal productivity command center for tasks, goals, notes, calendar & insights, built with React, Vite & Firebase  — [see below](#public-projects) |
 | 💡 AI Mobile Intelligence | **MIZAN** — Intelligent personal finance app — [see below](#public-projects) |
+| ⚡ AI Mobile Intelligence | **PULSE** — Smart Flutter & Firebase productivity app — [see below](#public-projects) |
 | 🏋️ Fitness Mobile | **IronFit** — Personal fitness & workout app — [see below](#public-projects) |
 | 📚 Reading Intelligence | ReadSpeed — Flutter AI-powered speed-reading & reading analytics app — [see below](#public-projects) |
 | 📲 Mobile Commerce | **NASAQ** — Flutter fashion & accessories app — [see below](#public-projects) |
@@ -157,6 +158,21 @@ The project focuses on intuitive financial visualization, smart budgeting, reusa
 
 
 ---
+
+
+### ⚡ PULSE — Smart Productivity & Wellness Platform
+
+A modern mobile productivity platform built to help users organize their daily tasks, routines, and personal goals in one focused workspace. PULSE combines a clean, intuitive user experience with secure Firebase authentication, structured data, and a scalable Flutter architecture designed for real-world everyday use.
+
+The project focuses on simplicity, smooth interactions, responsive design, reusable components, and a polished light/dark experience — built as a real product rather than a static demo.
+
+**Tech:** Flutter · Firebase · Firebase Authentication · Cloud Firestore
+
+**Repository:** [`QossayKamel22/PULSE`](https://github.com/QossayKamel22/PULSE)
+
+
+---
+
 
 
 ### 🏋️ IronFit — Smart Fitness & Workout Platform
