@@ -131,17 +131,20 @@ An operational monitoring system for restaurants: it reads a branch's live POS d
 **Tech:** Python · FastAPI · LangGraph · PostgreSQL · SQLAlchemy · Alembic · Flutter (client) · Docker
 **Repository:** [`QossayKamel22/POS_Agent`](https://github.com/QossayKamel22/POS_Agent) *(private — available on request)*
 
+
 ---
+
 
 ### 🧠 FLOW — AI-Powered CRM Platform
 
 A production-quality AI-powered CRM platform designed to help teams manage leads, customers, deals, activities, and sales workflows through one clean, premium workspace. FLOW combines a modern CRM experience with intelligent AI-powered capabilities, real-time data persistence, secure authentication, and a scalable Firebase architecture.
 
-The project focuses on polished SaaS UX/UI, reusable component architecture, responsive experiences, protected routes, real-time CRM workflows, and production-ready CRUD functionality — built to feel like a real business platform rather than a static dashboard.
+The project focuses on polished SaaS UX/UI, reusable component architecture, responsive experiences, protected routes, real-time CRM workflows, and production-ready CRUD functionality. The AI layer is designed to evolve into a dedicated **Python + LangGraph agent architecture**, enabling intelligent customer insights, lead analysis, follow-up recommendations, and sales workflow automation.
 
-**Tech:** React · TypeScript · Vite · Firebase · Firebase Authentication · Cloud Firestore · React Router · CSS
+**Tech:** React · TypeScript · Vite · Firebase · Firebase Authentication · Cloud Firestore · Python · LangGraph · React Router · CSS
 
 **Repository:** [`QossayKamel22/FLOW`](https://github.com/QossayKamel22/FLOW)
+
 
 
 ---
