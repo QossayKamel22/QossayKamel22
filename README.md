@@ -30,7 +30,7 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 |---|---|
 | 🏦 Production Banking | Flutter development for live banking apps across 5 financial institutions — [see below](#-professional-experience) |
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI agent for POS intelligence — [see below](#-ai--agent-engineering) |
-| 🤖 AI-Powered CRM | **FLOW** — AI-powered CRM platform — [see below](#public-projects) |
+| 🧠 AI-Powered CRM | **FLOW** — AI-powered CRM platform — [see below](#public-projects) |
 | 🧩 Full-Stack | **NOVA** — React, Vite & Firebase productivity platform — [see below](#public-projects) |
 | 💡 AI Finance | **MIZAN** — Intelligent personal finance platform — [see below](#public-projects) |
 | ⚡ AI Productivity | **PULSE** — Smart Flutter & Firebase productivity platform — [see below](#public-projects) |
@@ -133,7 +133,7 @@ An operational monitoring system for restaurants: it reads a branch's live POS d
 
 ---
 
-### 🤖 FLOW — AI-Powered CRM Platform
+### 🧠 FLOW — AI-Powered CRM Platform
 
 A production-quality AI-powered CRM platform designed to help teams manage leads, customers, deals, activities, and sales workflows through one clean, premium workspace. FLOW combines a modern CRM experience with intelligent AI-powered capabilities, real-time data persistence, secure authentication, and a scalable Firebase architecture.
 
