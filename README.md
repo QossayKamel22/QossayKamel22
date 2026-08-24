@@ -32,8 +32,8 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI agent for POS intelligence — [see below](#-ai--agent-engineering) |
 | 🧠 AI-Powered CRM | **FLOW** — AI-powered CRM platform — [see below](#public-projects) |
 | 🧩 Full-Stack | **NOVA** — React, Vite & Firebase productivity platform — [see below](#public-projects) |
-| 🏙️ Real Estate Intelligence | **MAKAN | مكان** — Premium UAE real-estate intelligence platform — [see below](#public-projects) |
-| 📱 Digital Services | **TAMM | تم** — Modern cross-platform digital services platform built with React Native, NestJS & Firebase — [see below](#public-projects) |
+| 🏙️ Real Estate Intelligence | **MAKAN — مكان** — Premium UAE real-estate intelligence platform — [see below](#public-projects) |
+| 📱 Digital Services | **TAMM — تم** — Modern cross-platform digital services platform built with React Native, NestJS & Firebase — [see below](#public-projects) |
 | 💡 AI Finance | **MIZAN** — Intelligent personal finance platform — [see below](#public-projects) |
 | ⚡ AI Productivity | **PULSE** — Smart Flutter & Firebase productivity platform — [see below](#public-projects) |
 | 🏋️ Fitness Tech | **IronFit** — Mobile fitness & workout platform — [see below](#public-projects) |
