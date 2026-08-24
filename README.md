@@ -32,6 +32,8 @@ Day to day I build across Flutter, React, and backend services (Python, Java/Spr
 | 🤖 AI Agents | **POS Agent** — LangGraph + FastAPI agent for POS intelligence — [see below](#-ai--agent-engineering) |
 | 🧠 AI-Powered CRM | **FLOW** — AI-powered CRM platform — [see below](#public-projects) |
 | 🧩 Full-Stack | **NOVA** — React, Vite & Firebase productivity platform — [see below](#public-projects) |
+| 🏙️ Real Estate Intelligence | **MAKAN | مكان** — Premium UAE real-estate intelligence platform — [see below](#public-projects) |
+| 📱 Digital Services | **TAMM | تم** — Modern cross-platform digital services platform built with React Native, NestJS & Firebase — [see below](#public-projects) |
 | 💡 AI Finance | **MIZAN** — Intelligent personal finance platform — [see below](#public-projects) |
 | ⚡ AI Productivity | **PULSE** — Smart Flutter & Firebase productivity platform — [see below](#public-projects) |
 | 🏋️ Fitness Tech | **IronFit** — Mobile fitness & workout platform — [see below](#public-projects) |
@@ -159,6 +161,32 @@ The project focuses on clean component architecture, reusable design systems, re
 **Tech:** React · TypeScript · Vite · Firebase · Firebase Authentication · Cloud Firestore · React Router · CSS
 
 **Repository:** [`QossayKamel22/NOVA`](https://github.com/QossayKamel22/NOVA)
+
+
+---
+
+
+### 🏙️ MAKAN — UAE Real Estate Intelligence Platform
+
+A premium UAE real-estate intelligence platform designed to help users discover, search, compare, and evaluate properties, developers, and real-estate opportunities across the UAE. MAKAN combines a polished architecture-inspired UI/UX with property discovery, advanced filtering, developer profiles, saved properties, real-estate guides, market news, and direct inquiries.
+
+The project focuses on premium product design, responsive experiences, scalable REST architecture, secure authentication, real-time Firebase data, reusable components, and production-ready development practices — built to feel like a real UAE proptech startup rather than a basic real-estate listing website.
+
+**Tech:** React · TypeScript · Vite · Tailwind CSS · NestJS · Firebase · Firebase Authentication · Cloud Firestore · Firebase Storage · REST API
+
+**Repository:** [`QossayKamel22/MAKAN`](https://github.com/QossayKamel22/MAKAN)
+
+---
+
+### 📱 TAMM | تم — Digital Services Platform
+
+A modern cross-platform digital services platform designed to bring multiple services into one simple, fast, and intuitive experience. TAMM combines a clean mobile-first UI/UX with scalable backend architecture, secure authentication, cloud services, and a foundation designed to evolve from an MVP into a production-ready digital platform.
+
+The project focuses on cross-platform mobile development, clean architecture, reusable components, scalable APIs, responsive experiences, and maintainable TypeScript code — built with the goal of creating a real product rather than a simple prototype.
+
+**Tech:** Expo · React Native · TypeScript · NestJS · Firebase · Firebase Authentication · Cloud Services · Git · GitHub
+
+**Repository:** [`QossayKamel22/TAMM`](https://github.com/QossayKamel22/TAMM)
 
 
 ---
