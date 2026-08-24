@@ -328,7 +328,7 @@ Right now I'm splitting my time between an AI agent system built on Python and L
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0D1117)](https://www.linkedin.com/in/qossay-kamel-6944a0283)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=todoist&logoColor=B22222&labelColor=0D1117)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=todoist&logoColor=B22222&labelColor=0D1117)](https://a2700693-qossaykamel-portfolio.kamelqossay.workers.dev)
 [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0D1117)](mailto:kamelqossay@gmail.com)
 
 </div>
