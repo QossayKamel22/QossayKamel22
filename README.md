@@ -158,7 +158,6 @@ An Egyptian bank operating a branch network in Palestine. The *EALB PS* app serv
 
 ---
 
-> **Note:** Store links point to each bank's current official consumer mobile banking app; publisher identity was cross-checked where possible (several of these apps are published under PCNC's own package namespace, consistent with PCNC's role as a banking technology provider). I use *"contributed to"* rather than *"built"* because these are team-built production applications.
 
 <br/>
 
