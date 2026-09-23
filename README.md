@@ -333,29 +333,6 @@ The common thread is **scalable architecture**: systems designed to hold up as b
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QossayKamel22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=B22222&text_color=FFFFFF&ring_color=B22222" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QossayKamel22&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=QossayKamel22&theme=dark&hide_border=true&background=0D1117&ring=B22222&fire=D4AF37&currStreakLabel=D4AF37" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=QossayKamel22&bg_color=0D1117&color=FFFFFF&line=D4AF37&point=B22222&area=true&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=QossayKamel22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
-<br/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
