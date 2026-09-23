@@ -1,228 +1,202 @@
 <div align="center">
 
-Qossay Kamel
+# Hi, I'm Qossay Kamel 👋
 
-Software Engineer · Flutter · Full-Stack · AI Agents
+### Software Engineer · Flutter · Full-Stack · AI Agents
 
-Building production mobile experiences, full-stack products, and intelligent AI-powered systems.
+**Banking-grade Mobile Engineering → Full-Stack Products → AI Agent Systems**
+
+Flutter developer on production mobile banking apps for 5 financial institutions — now building intelligent, agent-driven products with Python, FastAPI & LangGraph.
 
 <br/>
+
 <a href="https://qossaykamel-portfolio.kamelqossay.workers.dev">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-D4AF37?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-D4AF37?style=for-the-badge&labelColor=0D1117" />
 </a>
-<a href="https://github.com/QossayKamel22">
-<img src="https://img.shields.io/badge/GitHub-QossayKamel22-FFFFFF?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" />
-</a>
-<a href="https://www.linkedin.com/in/qossay-kamel-6944a0283">
-<img src="https://img.shields.io/badge/LinkedIn-Qossay%20Kamel-FFFFFF?style=flat-square&logo=linkedin&logoColor=D4AF37&labelColor=0D1117" />
-</a>
-<a href="mailto:kamelqossay@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=flat-square&logo=gmail&logoColor=B22222&labelColor=0D1117" />
-</a>
+
+<br/><br/>
+
+<a href="https://github.com/QossayKamel22"><img src="https://img.shields.io/badge/GitHub-QossayKamel22-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/qossay-kamel-6944a0283"><img src="https://img.shields.io/badge/LinkedIn-Qossay%20Kamel-0D1117?style=flat-square&logo=linkedin&logoColor=D4AF37&labelColor=0D1117" /></a>
+<a href="mailto:kamelqossay@gmail.com"><img src="https://img.shields.io/badge/Email-kamelqossay%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=B22222&labelColor=0D1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=QossayKamel22&label=Profile%20Views&color=B22222&style=flat-square" />
+
 </div>
 
-⸻
+<br/>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a Software Engineer focused on building modern digital products across mobile, web, backend systems, and AI.
+I'm a Software Engineer with professional experience shipping **Flutter applications for production mobile banking**, plus a background in **digital banking and customer-facing banking technology** from Arab Bank. That combination — engineering plus real banking-domain understanding — is what I bring to mobile, full-stack, and AI Agent work.
 
-My strongest areas are:
+Day to day I build across Flutter, React/Next.js, and backend services (Python/FastAPI, NestJS, Node), with UI/UX grounded in Figma. I'm actively extending that foundation into **AI Agent engineering** — LangGraph, tool calling, memory, and LLM-powered business automation — as an engineering specialization built on top of real production experience, not as an AI researcher.
 
-* 📱 Flutter & Cross-Platform Development
-* 🏦 Mobile Banking & FinTech
-* 🌐 Full-Stack Web Applications
-* 🤖 AI Agents & LLM-powered Systems
-* 🧠 Python, FastAPI & LangGraph
-* 🏗️ Backend Architecture & APIs
-* 🎨 Product UI/UX & Apple-inspired interfaces
-* 🏠 Real Estate / PropTech platforms
+I enjoy taking an idea from **concept → architecture → implementation → polished product**.
 
-I enjoy taking an idea from concept → architecture → implementation → polished product.
+<br/>
 
-⸻
-
-🚀 Engineering Snapshot
+## 🚀 Engineering Snapshot
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-📱 Mobile
+**📱 Mobile**
 
-Flutter
-Dart
-React Native
+Flutter · Dart<br/>React Native · Expo<br/>iOS & Android delivery
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-🌐 Full-Stack
+**🌐 Full-Stack**
 
-React
-Next.js
-TypeScript
-NestJS
+React · Next.js<br/>TypeScript · Vite<br/>NestJS · Tailwind
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-🤖 AI
+**🤖 AI**
 
-Python
-FastAPI
-LangGraph
-LLM Agents
+Python · FastAPI<br/>LangGraph<br/>LLM Agents · Tool calling
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-☁️ Backend
+**☁️ Backend & Data**
 
-Firebase
-PostgreSQL
-Docker
-Cloudflare
+PostgreSQL · Firebase<br/>SQLAlchemy · Alembic<br/>Docker · Cloudflare
 
 </td>
 </tr>
 </table>
 
-⸻
+<br/>
 
-⭐ Featured Projects
+## 🏦 Production Mobile Banking
 
-🤖 POS Agent
+### Flutter Developer — PCNC IT Solutions
 
-AI-powered restaurant operational intelligence platform
+[PCNC IT Solutions](https://www.linkedin.com/company/pcnc-it-solution) is a Palestinian technology company specializing in banking and payment solutions, and a long-standing technology partner to Bank of Palestine. As a Flutter Developer there, I contributed to **production-grade mobile banking applications** used by real banking customers on iOS and Android.
 
-A system designed to monitor restaurant operations, detect statistical anomalies, and use an agent workflow to turn those events into actionable alerts.
+**What the work involved**
 
-Stack
+| Area | Details |
+|---|---|
+| 📱 Mobile development | Flutter feature development and cross-platform iOS & Android delivery |
+| 🔐 Security & auth | Authentication and secure user flows in a regulated banking context |
+| 🔌 Integration | API integration with banking backends |
+| 🎨 UI implementation | Translating design specs into production banking screens |
+| 🛠️ Live maintenance | Bug fixing and maintenance on apps already in customers' hands |
+| 🤝 Collaboration | Working alongside banking-side and technical teams |
 
-Python FastAPI LangGraph PostgreSQL SQLAlchemy Alembic Flutter Docker
+**At a glance**
 
-Architecture
+| Bank | Market | Platform |
+|---|---|---|
+| Bank of Palestine | Palestine | iOS · Android |
+| Cairo Amman Bank | Palestine | iOS · Android |
+| Arab Islamic Bank | Palestine | iOS · Android |
+| Safa Bank | Palestine | iOS · Android |
+| Egyptian Arab Land Bank (EALB) | Palestine | iOS · Android |
 
-Restaurant Data
-      ↓
-Statistical Baseline
-      ↓
-Anomaly Detection
-      ↓
-LangGraph Agent
-      ↓
-Alert Lifecycle
-      ↓
-Flutter Dashboard
+<br/>
 
-⸻
+---
 
-💰 MIZAN
+#### 🟢 Bank of Palestine
 
-Arabic-first AI personal finance platform
+One of the largest banks in Palestine, with a wide branch network and a large retail customer base — and the bank for which PCNC serves as a long-standing technology partner. Its mobile app is a primary everyday banking channel for its customers.
 
-A financial management product combining personal finance tracking with AI-powered assistance.
+**My role:** Contributed to Flutter mobile development as part of the PCNC team.
 
-Stack
+<a href="https://play.google.com/store/apps/details?id=com.pcnc.bop"><img src="https://img.shields.io/badge/Google%20Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=D4AF37" /></a>
+<a href="https://apps.apple.com/us/app/bank-of-palestine/id1038772801"><img src="https://img.shields.io/badge/App%20Store-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF" /></a>
 
-Flutter Firebase Python FastAPI PostgreSQL LangGraph
+---
 
-Focus:
+#### 🔵 Cairo Amman Bank — Palestine
 
-Personal Finance · Arabic UX · AI Agents · Financial Intelligence
+A Jordanian bank with an established branch network in Palestine. The *CAB Mobile Banking PS* app serves its customers in the Palestinian market.
 
-⸻
+**My role:** Contributed to Flutter mobile development as part of the PCNC team.
 
-🏠 Meteorite Real Estate
+<a href="https://play.google.com/store/apps/details?id=com.pcnc.mbs.cab"><img src="https://img.shields.io/badge/Google%20Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=D4AF37" /></a>
+<a href="https://apps.apple.com/us/app/cab-mobile-banking-ps/id1625831957"><img src="https://img.shields.io/badge/App%20Store-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF" /></a>
 
-Commercial real-estate platform
+---
 
-A modern real-estate website and business platform with authentication, administration, company statistics, certificates, inquiries, and responsive product-focused UI.
+#### 🟤 Arab Islamic Bank — Palestine
 
-Stack
+A Palestinian Islamic bank offering Sharia-compliant banking products. Its mobile app brings those services to customers on iOS and Android.
 
-Next.js React TypeScript Firebase Cloudflare
+**My role:** Contributed to Flutter mobile development as part of the PCNC team.
 
-🌐 https://meteoriterealestate.com
-💻 https://github.com/QossayKamel22/Meteorite-Real-estate
+<a href="https://play.google.com/store/apps/details?id=com.pcnc.aib"><img src="https://img.shields.io/badge/Google%20Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=D4AF37" /></a>
+<a href="https://apps.apple.com/us/app/arab-islamic-bank-mobile-app/id1439731494"><img src="https://img.shields.io/badge/App%20Store-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF" /></a>
 
-⸻
+---
 
-🏙️ MAKAN
+#### 🟡 Safa Bank
 
-UAE Real Estate Intelligence / PropTech
+One of Palestine's newer Islamic banks, operating under Sharia-compliant principles. The *Safa Mobile* app is its digital banking channel.
 
-A real-estate platform concept focused on property discovery, modern UX, and intelligent real-estate workflows.
+**My role:** Contributed to Flutter mobile development as part of the PCNC team.
 
-Stack
+<a href="https://play.google.com/store/apps/details?id=com.safabank.safamobileapp"><img src="https://img.shields.io/badge/Google%20Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=D4AF37" /></a>
+<a href="https://apps.apple.com/us/app/safa-mobile/id1243247851"><img src="https://img.shields.io/badge/App%20Store-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF" /></a>
 
-React TypeScript Vite Tailwind CSS NestJS Firebase
+---
 
-⸻
+#### 🔴 Egyptian Arab Land Bank (EALB)
 
-🧩 More Projects
+An Egyptian bank operating a branch network in Palestine. The *EALB PS* app serves its Palestinian customers.
 
-Project	Focus	Technology
-FLOW	AI-powered CRM	React · TypeScript · Firebase
-Panther	Cross-platform product	Flutter · Firebase
-NOVA	Productivity SaaS	React · TypeScript · Firebase
-TAMM	Digital services platform	React Native · Expo · NestJS · Firebase
-PULSE	Productivity / Wellness	Flutter · Firebase
-ReadSpeed	AI reading analytics	Flutter · Firebase
-IronFit	Fitness platform	Flutter · Firebase · REST APIs
-NASAQ	Fashion & accessories	Flutter · Dart
-Modern Life Simulator	Life simulation game	React · TypeScript · Simulation Systems
+**My role:** Contributed to Flutter mobile development as part of the PCNC team.
 
-⸻
+<a href="https://play.google.com/store/apps/details?id=com.pcnc.ealb.mobilebanking&hl=en"><img src="https://img.shields.io/badge/Google%20Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=D4AF37" /></a>
+<a href="https://apps.apple.com/il/app/ealb-ps/id6755387138"><img src="https://img.shields.io/badge/App%20Store-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF" /></a>
 
-🏦 Professional Experience
+---
 
-PCNC IT Solutions
+> **Note:** Store links point to each bank's current official consumer mobile banking app; publisher identity was cross-checked where possible (several of these apps are published under PCNC's own package namespace, consistent with PCNC's role as a banking technology provider). I use *"contributed to"* rather than *"built"* because these are team-built production applications.
 
-Software Engineer — Flutter / Full-Stack
+<br/>
 
-Contributed to production mobile banking applications across iOS and Android for multiple financial institutions.
+### Arab Bank — Customer Relations & Internet Banking Sales
 
-Banking Applications
+At Arab Bank my role centered on **digital banking and customer experience** rather than development: digital sales, customer relations, and internet banking — helping customers adopt and use the bank's digital channels.
 
-Institution	Platform
-Bank of Palestine	iOS · Android
-Cairo Amman Bank	iOS · Android
-Arab Islamic Bank	iOS · Android
-Safa Bank	iOS · Android
-Egyptian Arab Land Bank (EALB)	iOS · Android
+`Customer Experience` `Digital Banking` `CRM-driven Sales` `Online Banking Adoption`
 
-Worked across mobile UI, backend integrations, authentication, banking features, APIs, and production application workflows.
+This gave me ground-level familiarity with how a bank's digital ecosystem — including its mobile app — is positioned and used by real customers. It's the other half of the banking picture: I've seen these products both from the codebase and from the customer's side of the counter.
 
-⸻
+**Arabi Mobile** — Arab Bank's official mobile banking app:
+<a href="https://play.google.com/store/apps/details?id=com.arabbank.arabimobilev2">Google Play</a> · <a href="https://apps.apple.com/us/app/arabi-mobile/id1387380275">App Store</a>
+<sub>*(Referenced to show familiarity with the product and ecosystem — not a claim of development ownership.)*</sub>
 
-🏦 Arab Bank
+<br/>
 
-Customer Relations & Internet Banking Sales
+### 🔒 Confidential & Commercial Work
 
-Working at the intersection of:
+Some of my professional work can't be published due to client confidentiality, company ownership, and proprietary code restrictions — including additional mobile and banking applications built for commercial use. The absence of public source code reflects standard confidentiality obligations in banking software, not an absence of experience.
 
-Customer Experience · Digital Banking · CRM · Online Sales
+No proprietary source code, credentials, internal architecture, customer data, or confidential screenshots from any employer or client appear anywhere in this profile.
 
-Experience with digital banking products, customer relationships, CRM-driven sales workflows, and the bank’s digital ecosystem.
+<br/>
 
-⸻
+## 🤖 AI & Agent Engineering
 
-🤖 AI & Agent Engineering
+I'm interested in moving beyond simple AI integrations toward **agentic systems** that reason over data, execute workflows, and interact with real applications.
 
-I’m particularly interested in moving beyond simple AI integrations toward agentic systems that can reason over data, execute workflows, and interact with real applications.
+**Current architecture direction**
 
-Current Architecture Direction
-
+```text
                     ┌─────────────────┐
                     │   User / App    │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │      API        │
-                    │    FastAPI      │
+                    │   API (FastAPI) │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
@@ -232,166 +206,170 @@ Current Architecture Direction
                              ↓
               ┌──────────────┼──────────────┐
               ↓              ↓              ↓
-        PostgreSQL        Tools          LLMs
-              ↓              ↓              ↓
+         PostgreSQL        Tools          LLMs
               └──────────────┼──────────────┘
                              ↓
                     ┌─────────────────┐
-                    │   Action /      │
-                    │   Intelligence  │
+                    │    Action /     │
+                    │  Intelligence   │
                     └─────────────────┘
+```
 
-Areas I’m exploring:
+**Exploring & building with:** multi-step tool-calling workflows · stateful graph orchestration with LangGraph · memory and context across agent steps · RAG · structured LLM decision-making · automation of real operational business processes.
 
-* AI Agents
-* Agent orchestration
-* LangGraph
-* Tool calling
-* RAG
-* LLM workflows
-* AI-powered business automation
-* Intelligent monitoring systems
-* AI + FinTech
-* AI + CRM
-* AI + Real Estate
+**Where it's heading:** `AI + FinTech` `AI + CRM` `AI + Real Estate` `Intelligent Monitoring`
 
-⸻
+<br/>
 
-🛠️ Tech Stack
+## ⭐ Featured Projects
 
-Languages
+### 🤖 POS Agent — Restaurant Live Monitoring Layer
 
-<p align="center">
+An operational monitoring system for restaurants: it reads a branch's live POS data, detects deviations from that branch's **own statistical baseline** (not ML), and routes alerts to the responsible manager through a **LangGraph-based alert lifecycle** — while there's still time to act. Backed by 90+ architecture decisions and a full requirements/spec trail; backend, detection engine, and Flutter client are in active development.
+
+```text
+Restaurant POS Data → Statistical Baseline → Anomaly Detection
+                   → LangGraph Agent → Alert Lifecycle → Flutter Dashboard
+```
+
+**Tech:** Python · FastAPI · LangGraph · PostgreSQL · SQLAlchemy · Alembic · Flutter · Docker
+**Repository:** [`QossayKamel22/POS_Agent`](https://github.com/QossayKamel22/POS_Agent) *(private — available on request)*
+
+---
+
+### ⚖️ MIZAN — Arabic-first AI Personal Finance
+
+A personal finance platform for organizing income, expenses, budgets, savings, and goals in one workspace — with a clean **Arabic-first UX**, structured financial data, and a foundation for AI-powered financial insights via an agent layer. Where my banking background meets personal finance.
+
+**Tech:** Flutter · Firebase · Python · FastAPI · PostgreSQL · LangGraph
+**Repository:** [`QossayKamel22/MIZAN`](https://github.com/QossayKamel22/MIZAN)
+
+---
+
+### 🏠 Meteorite Real Estate — Commercial Real-Estate Platform
+
+A **live** real-estate website and business platform with authentication, administration, company statistics, certificates, inquiries, and a responsive product-focused UI.
+
+**Tech:** Next.js · React · TypeScript · Firebase · Cloudflare
+**Live:** [meteoriterealestate.com](https://meteoriterealestate.com) · **Repository:** [`QossayKamel22/Meteorite-Real-estate`](https://github.com/QossayKamel22/Meteorite-Real-estate)
+
+---
+
+### 🏙️ MAKAN — UAE Real Estate Intelligence
+
+A premium UAE PropTech platform for discovering, comparing, and evaluating properties, developers, and opportunities — with advanced filtering, developer profiles, saved properties, guides, market news, and direct inquiries, on a scalable REST architecture.
+
+**Tech:** React · TypeScript · Vite · Tailwind CSS · NestJS · Firebase (Auth · Firestore · Storage)
+**Repository:** [`QossayKamel22/MAKAN`](https://github.com/QossayKamel22/MAKAN)
+
+<br/>
+
+### 🧩 More Projects
+
+| Project | Focus | Technology | Repo |
+|---|---|---|---|
+| 🧠 **FLOW** | AI-powered CRM — leads, deals, activities; AI layer evolving toward a LangGraph agent | React · TypeScript · Firebase · Python · LangGraph | [FLOW](https://github.com/QossayKamel22/FLOW) |
+| 🚀 **NOVA** | Productivity command center — tasks, goals, notes, calendar | React · TypeScript · Vite · Firebase | [NOVA](https://github.com/QossayKamel22/NOVA) |
+| 📱 **TAMM \| تم** | Cross-platform digital services platform | React Native · Expo · NestJS · Firebase | [TAMM](https://github.com/QossayKamel22/TAMM) |
+| ⚡ **PULSE** | Productivity & wellness, light/dark UX | Flutter · Firebase | [PULSE](https://github.com/QossayKamel22/PULSE) |
+| 📚 **ReadSpeed** | AI-powered speed reading & analytics | Flutter · Dart · Firebase | [ReadSpeed](https://github.com/QossayKamel22/ReadSpeed) |
+| 🏋️ **IronFit** | Workouts, progress tracking, fitness goals | Flutter · Firebase · Provider · REST APIs | [ironFit](https://github.com/QossayKamel22/ironFit) |
+| 📲 **NASAQ** | Fashion & accessories mobile commerce | Flutter · Dart · Provider | [NASAQ](https://github.com/QossayKamel22/NASAQ) |
+| 🐾 **Panther** | Cross-platform product | Flutter · Firebase | — |
+| 🎮 **Modern Life Simulator** | Life sim — career, money, real estate, cars, fitness, social, cities | React · TypeScript | — |
+
+<br/>
+
+## 🎨 UI/UX & Product Design
+
+Minimal · Premium · Functional · Apple-inspired — alongside freelance UI/UX and branding work since 2021.
+
+| Project | Description | Figma |
+|---|---|---|
+| **AI POS Agent App** | Product-design counterpart to POS Agent — turning operational data into actionable alerts for managers *(concept design)* | [View](https://www.figma.com/make/mvuLWhAlltg9lPSnA0nbf9/AI-POS-Agent-App) |
+| **iCAR** | Automotive product UI/UX | [View](https://www.figma.com/design/cP3WIWxro2CAscEiHsgSf2/iCAR) |
+| **PalGram** | Social app UI/UX | [View](https://www.figma.com/design/sTwNl2EkM2gizHlls1Ii7G/PalGram) |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=dart,python,typescript,javascript,java,cs" />
-</p>
 
-Mobile & Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,reactnative,vite,tailwind" />
-</p>
-
-Backend & Data
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,postgresql,firebase,docker" />
-</p>
-
-Cloud & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,git,github,figma,postman" />
-</p>
-
-⸻
-
-📊 GitHub Analytics
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=QossayKamel22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=B22222&text_color=FFFFFF&ring_color=B22222" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QossayKamel22&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF" />
-</div>
+**Mobile & Frontend**
 <br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vite,tailwind,html" />
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,spring,postgresql,firebase" />
+
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,git,github,figma,postman" />
+
+**AI**
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=openai&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Tool%20Calling-0D1117?style=for-the-badge&logoColor=D4AF37" />
+
+</div>
+
+<br/>
+
+## 🔭 Currently Building
+
+- 🤖 **AI Agent Systems** — practical agentic workflows with Python, FastAPI, LangGraph & PostgreSQL
+- 🏦 **FinTech** — where mobile banking, personal finance, and AI meet
+- 🏠 **PropTech** — modern real-estate products and intelligent property experiences
+- 🎮 **Modern Life Simulator** — a web-based simulation game
+
+The common thread is **scalable architecture**: systems designed to hold up as both the logic and the traffic grow — not just to work in a demo.
+
+<br/>
+
+## 📊 GitHub Analytics
+
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=QossayKamel22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=B22222&text_color=FFFFFF&ring_color=B22222" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QossayKamel22&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=QossayKamel22&theme=dark&hide_border=true&background=0D1117&ring=B22222&fire=D4AF37&currStreakLabel=D4AF37" />
-</div>
 
-⸻
+<br/><br/>
 
-📈 Contribution Activity
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=QossayKamel22&bg_color=0D1117&color=FFFFFF&line=D4AF37&point=B22222&area=true&hide_border=true" />
-</div>
 
-⸻
+<br/><br/>
 
-🏆 GitHub Achievements
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=QossayKamel22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
 </div>
 
-⸻
-
-🎨 UI/UX & Product Design
-
-I also work on product interfaces and design systems, with a strong preference for:
-
-Minimal · Premium · Functional · Apple-inspired
-
-Selected Design Work
-
-* 🤖 AI POS Agent App
-    https://www.figma.com/make/mvuLWhAlltg9lPSnA0nbf9/AI-POS-Agent-App
-* 🚗 iCAR
-    https://www.figma.com/design/cP3WIWxro2CAscEiHsgSf2/iCAR
-* 💬 PalGram
-    https://www.figma.com/design/sTwNl2EkM2gizHlls1Ii7G/PalGram
-
-⸻
-
-🔭 Currently Building
-
-🤖 AI Agent Systems
-
-Building practical agentic workflows using Python, FastAPI, LangGraph and PostgreSQL.
-
-🏦 FinTech
-
-Exploring the intersection between mobile banking, personal finance, AI and digital financial products.
-
-🏠 PropTech
-
-Building modern real-estate products and intelligent property experiences.
-
-🎮 Modern Life Simulator
-
-A web-based simulation game combining:
-
-Career · Money · Real Estate · Cars · Fitness · Social Media · Cities
-
-⸻
-
-🧠 Engineering Interests
-
-Mobile Engineering
-        +
-Full-Stack Development
-        +
-AI Agents
-        +
-FinTech
-        +
-PropTech
-        +
-Product Design
-        ↓
-Modern Digital Products
-
-⸻
-
-🌐 Find Me Online
-
-<div align="center">
-<a href="https://qossaykamel-portfolio.kamelqossay.workers.dev">
-<img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
-</a>
-<a href="https://github.com/QossayKamel22">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/qossay-kamel-6944a0283">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
-</a>
-<a href="mailto:kamelqossay@gmail.com">
-<img src="https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-</a>
-</div>
 <br/>
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-Building products. Learning constantly. Shipping ideas.
+<a href="https://qossaykamel-portfolio.kamelqossay.workers.dev"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+<a href="https://github.com/QossayKamel22"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/qossay-kamel-6944a0283"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="mailto:kamelqossay@gmail.com"><img src="https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
 
-Qossay Kamel · Software Engineer
+<br/><br/>
+
+*Building products. Learning constantly. Shipping ideas.*
+
+**Qossay Kamel · Software Engineer**
 
 </div>
